@@ -290,7 +290,7 @@ html {
     right: 10%;
     left: 35%;
     position: relative;
-    min-height: 10vh;
+    min-height: 0vh;
     padding-bottom: 0px;
     border-bottom: 3px solid rgba(250, 250, 250, 0.25);
 }
