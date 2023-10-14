@@ -1,2 +1,2 @@
-# gokulnath-ramachandran.github.io
-Repository to host my personal website
+# Gokulnath Ramachandran
+M.Sc Aerospace Engineering student | ISAE SUPAERO (Toulouse, France)
